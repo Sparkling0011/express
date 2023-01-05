@@ -1,0 +1,6 @@
+GET  http://127.0.0.1:3000/user/query
+Content-Type: application/x-www-form-urlencoded
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IjE3MjUyNTY0MjUxQHFxLmNvbSIsInBhc3N3b3JkIjoiYzRiNGI3NzM5Y2NkYzg5NTNhYzU1MTZhYjMwZTkwYWYiLCJpYXQiOjE2NjY1MTEyMzUsImV4cCI6MTY2NjUxNDgzNX0.k-tBbezBGQPfaF80jRc3Wdjwi6jvZT_zgVg-FrJ13fU
+
+email=17252564251@qq.com
+&password=18912904011s111
